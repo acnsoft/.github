@@ -1,5 +1,8 @@
 # Wellcome to AcnSoft!
 
+![](https://komarev.com/ghpvc/?username=AcnSoft)
+
+--------------------------
 Have you ever thought about how hack scenes in movies actually happen? Those cool terminal codes, dominate the internet with one line of code. things don't work like that, but we write the tools used in AcnSoft that terminal codes.
 
 ## Why Us?

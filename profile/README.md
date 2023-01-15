@@ -17,11 +17,11 @@ AcnSoft tools never keep logs! We never receive your data.
 Innovations are always welcome, just let us know when something catches your eye!
 
 ## Our Stats
-● 5 tools
+● 10 tools
 
-● 2k users
+● 10k+ users
 
-● 17 followers
+● 20 followers
 
 ## Socials
 
